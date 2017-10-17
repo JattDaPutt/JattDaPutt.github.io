@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html>
+<body>
+<style>
+   table, th, td {
+       border: 1px solid brown;
+       }
+       #fire {
+          color:brown;
+       }
+  </style>
+<table style="width:100%">
+  <tr>
+    <th>Songs</th>
+    <th>Album</th> 
+    <th>Artist</th>
+  </tr>
+  <tr id="fire">
+   <tr>
+    <th>The Bigger Artist</th>
+    <th colspan="2">A Boogie Wit Da Hoodie</th>
+  </tr>
+    <td>No Comparison</td>
+    <td>The Bigger Artist</td>
+    <td>A Boggie Wit Da Hoodie</td>
+  </tr>
+  <tr>
+    <td>Drowning</td>
+    <td>The Bigger Artist</td>
+    <td>A Boggie Wit Da Hoodie</td>
+  </tr>
+  <tr>
+    <td>Fake Love</td>
+    <td>More Life</td>
+    <td>Drake</td>
+  </tr>
+    <tr>
+    <td>Jumpman</td>
+    <td>What A Time To Be Alive</td>
+    <td>Drake</td>
+  </tr>
+    </tr>
+    <tr>
+    <td>Energy</td>
+    <td>If You're Reading This It's Too Late</td>
+    <td>Drake</td>
+  </tr>
+</table>
+
+</body>
+</html>
