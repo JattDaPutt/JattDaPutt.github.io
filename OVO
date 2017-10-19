@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<style>
+  body {
+      background-image: url("http://i.imgur.com/R9vBSI3.png");
+      }
+
+img {
+     width:250px;
+     height:150px;
+     }
+     
+      table,th,td{
+       border: 1px solid brown;
+       }
+       #fire {
+          color:brown;
+       }
+       img {
+            width:250px;
+            
+
+</style>
+</head>
+<body>
+<h1>Music</h1>
+
+
+<a href="https://en.wikipedia.org/wiki/The_Bigger_Artist"><img src="http://images.genius.com/466a4db50c2a5c0fcde91747e6d7ceba.640x640x1.jpg"></a>
+
+
+
+<table style="width:100%">
+<h3><iframe width="560" height="315" src="https://www.youtube.com/embed/SMbbjJ9t-9c" frameborder="0" allowfullscreen></iframe><h3/>
+  <tr>
+    <th>Songs</th>
+    <th>Album</th> -
+    <th>Artist</th>
+    <th>Lyrics</th>
+  </tr>
+  <tr id="fire">
+   <tr>
+    <th>The Bigger Artist</th>
+    <th colspan="2">A Boogie Wit Da Hoodie</th>
+      <td><a href="https://genius.com/albums/A-boogie-wit-da-hoodie/The-bigger-artist">Link</a></td>
+  </tr>
+  <tr>
+    <td>No Comparison</td>
+    <td>The Bigger Artist</td>
+    <td>A Boggie Wit Da Hoodie</td>
+       <td><a href="">Link</a></td>
+  </tr>
+  </tr>
+  <tr>
+    <td>Drowning</td>
+    <td>The Bigger Artist</td>
+    <td>A Boggie Wit Da Hoodie</td>
+        <td><a href="https://genius.com/albums/A-boogie-wit-da-hoodie/The-bigger-artist">Link</a></td>
+  </tr>
+  </tr>
+  <tr>
+    <td>Fake Love</td>
+    <td>More Life</td>
+    <td>Drake</td>
+      <td><a href="https://genius.com/Drake-fake-love-lyrics">Link</a></td>
+  </tr>
+    <tr>
+    <td>Jumpman</td>
+    <td>What A Time To Be Alive</td>
+    <td>Drake</td>
+     <td><a href="https://genius.com/Drake-and-future-jumpman-lyrics">Link</a></td>
+  </tr>
+    </tr>
+    <tr>
+    <td>Energy</td>
+    <td>If You're Reading This It's Too Late</td>
+    <td>Drake</td>
+     <td><a href="https://genius.com/Drake-energy-lyrics">Link</a></td>
+       
+  </tr>
+</table>
+
+</body>
+</html>
