@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Enver Creek's Official Website</title>
+
+</head>
+<body>
+<style>
+ img{
+   width:200px;
+   height:200px;
+   display: block;
+   margin: auto;
+   }
+</style>
+
+<h1>Enver Creek Secondary School</h1>
+<img src="https://pbs.twimg.com/profile_images/651808496359374848/XPvSdheO.png" alt="Enver Creek">
+<p>Enver Creek is a High School located at 84 ave in Surrey BC.Enver Creek was built in 1997 and it is a big school. </p>
+<p>Their are 71 staff members in Enver Creek and the staff is polite and nice.</p>
+
+</body>
+</html>
