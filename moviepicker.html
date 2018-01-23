@@ -1,0 +1,36 @@
+var ready = prompt("Are you ready? (Yes or No)").toUpperCase();
+if (ready === 'YES') {
+  part1()
+} else {
+  alert('Restart the game to play it.')
+}
+
+function part1() {
+  var emotion = prompt("Would you watch a SAD movie or a COMEDY movie right now?").toUpperCase();
+  switch (emotion) { 
+      }
+      break;
+    case 'SAD':
+      part2();
+      break;
+    default:
+      alert('I do not understand.')
+      part1();
+      break;
+  }
+}
+
+function part2() {
+  var sad = prompt("Do you want to watch Sad movie?").toUpperCase();
+  if (sad === "NO") {
+    alert('Restart the game to play it.');
+  }
+  if (sad === 'YES') {
+    var sadaction = prompt("Would you watch Titanic movie?").toUpperCase;
+    if (sadaction === 'YES') {
+      alert("You're current mood is to watch a Sad Action movie?")
+      } if (sadaction === "NO") {
+      alert("You don't want to watch any movies")
+    }
+    }
+  }
