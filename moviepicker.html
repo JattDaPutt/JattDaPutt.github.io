@@ -11,7 +11,17 @@ if (ready === 'YES') {
 
 function part1() {
   var emotion = prompt("Would you watch a SAD movie or a COMEDY movie right now?").toUpperCase();
-  switch (emotion) { 
+  switch (emotion) {
+    case 'COMEDY':
+      var actioncomedy = prompt("would you watch 21 Jump Street?").toUpperCase();
+      if (actioncomedy = "NO") {
+        var horrorcomedy = prompt("would you watch The Cabin In The Woods?").toUpperCase();
+        if (horrorcomedy === "NO" & actioncomedy === 'NO') {
+          part2();
+        }
+        if (horrorcomedy === "YES" & actioncomedy === 'YES') {
+          alert("you're current mood is Haunted")
+        }
       }
       break;
     case 'SAD':
@@ -38,6 +48,7 @@ function part2() {
     }
     }
   }
+
    </script>
       </head>
   <body>
